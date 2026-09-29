@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865174556902",
+    "project_id": "prostir-da1c9",
+    "storage_bucket": "prostir-da1c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865174556902:android:38d2414e7cfe9946b72b27",
+        "android_client_info": {
+          "package_name": "com.gariktaziksteam.prostir.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh3vZn2U7KNu_7t_iSWLWthxy_5NhvcFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
